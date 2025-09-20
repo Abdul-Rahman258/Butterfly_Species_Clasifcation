@@ -1,0 +1,13 @@
+tensorflow==2.9.1
+keras==2.9.0
+opencv-python
+pandas
+numpy
+scikit-learn
+fastapi==0.99.1
+starlette==0.27.0
+uvicorn[standard]
+streamlit
+pillow
+typing_extensions
+python-multipart
